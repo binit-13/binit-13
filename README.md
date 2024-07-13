@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m binit khadka
 
 #### About Me 
-#### I am Chartered Financial Analyst (CFA) by education and very much interested in Data Science and Machine Learning. I have many financial and economic hypothesis that i want to test using Machine Learning Models. Always enjoying process more than proceeds !!!
+#### I am Chartered Financial Analyst (CFA) by education and very much interested in Data Science and Machine Learning. I have many financial and economic hypothesis that i want to test using Machine Learning Models. Always enjoying process more than proceeds. Currently i am studying Information Management at Asian Institute of Technology, Bangkok mainly focusing on machine learning, deep learning and Geo-Inforomation System. I am amazed when i switched my path from finance to engineering field. !!!
 
 
 ## My Github Stats
